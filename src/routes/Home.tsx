@@ -1,7 +1,9 @@
+import Search from "../components/Search";
+
 function Home() {
     return(
         <div>
-            <h1>olá, sou a home !</h1>
+            <Search />
         </div>
     )
 }
